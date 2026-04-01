@@ -1,0 +1,7 @@
+﻿name: TpsPlugin
+main: com.serverfriends.tps.TpsPlugin
+version: 1.0
+commands:
+  tps:
+    description: Show TPS
+    usage: /tps
